@@ -13,7 +13,13 @@
 - Tuned model with tensforflow.keras methods (learning rate, augmentations, epochs, and density units) to achieve an accetpable model perfomance.
 - Used tensorflow.keras ImageDataGenerator to process and manipulate 7591 images.
 - Utilized a GPU (Practicum's server) to train and test the model.
-  
+
+## [Project 13: Model for Detection of Negative Movie Reviews](https://github.com/mnug1996/Project-13-Model-for-Negative-Movie-Review-Detection)
+
+- 
+-
+-
+- Used EDA to explore the data; found that 
 ## [Project 11: ML Model to Predict Car Prices for Used Car Sales Company](https://github.com/mnug1996/Project-11-ML-Model-to-Predict-Car-Prices-for-Used-Car-Sales-Company)
 
 - Made a lightGBM model with an RMSE of $1415 when predicting used vehicle prices based on certain features.

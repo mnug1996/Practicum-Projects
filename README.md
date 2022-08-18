@@ -64,9 +64,47 @@
 
 ## [Project 6 Machine Learning Model for Phone Plan Recommendations](https://github.com/mnug1996/Project-6-Machine-Learning-Model-for-Phone-Plan-Recommendations/blob/main/README.md)
 
--
--
--
--
+- Created a DecisionTreeClassifier model (accuracy=0.779) to recommend phone plans based on customer behavior.
+- After tuning on the validation set, the test set was then used to evaluate the models.
+- Used hyperparameter tuning on the DecisionTreeClassifier and RandomForestClassifier models to find the best settings for accurate predictions.
+- Split the data correctly into 60:20:20 ratio (train, validation, test).
+
+## [Project 5: Data Collection, SQL, and Statistical Analysis of Taxi Services](https://github.com/mnug1996/Project-5-Data-Collection-SQL-and-Statistical-Analysis-of-Taxi-Services)
+
+- Performed a t-test (p-value<0.05) which means the average duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.
+- Analyzed competitor data to understand passenger preferences and the impact of external factors on rides for a new ride-sharing company.
+- Found the top 10 neighbors that the new taxi service should focus on to gain new services and attraction.
+- Retrieved data from competitor database using SQL.
+
+## [Project 4 Data Analysis of Patterns in Succesful Video Games](https://github.com/mnug1996/Project-4-Data-Analysis-of-Successful-Video-Games)
+
+- Using t-tests, it was found that average user ratings for Xbox One vs PC (p=0.21>0.05) and genres action vs sports (p=2.85e<sup>-32</sup><0.05) were significantly different
+- Analyzed the top 5 genres from the regions of the world (EU, JP, NA); found that EU and NA had very similar top performers.
+- Found the most lucrative game genres were action and shooters (total sales resulting in 20mil and 15mil respectively).
+- Used correlation and scatter matrix to reveal that critic and user score ratings had a weak effect on total sales across all platforms.
+
+## [Project 3 Statistical Data Analysis Comparing Two Telecom Plans](https://github.com/mnug1996/Project-3-Statistical-Data-Analysis-Comparing-Two-Telecom-Plans-)
+
+- Performed SDA and found that the ultimate plan was more profitable ($70 avg mo. revenue) than the surf plan ($55 avg mo. revenue), so the company may adjust their budgeting according to this finding.
+- Used a t-test to find that average revenue did not vary between different regions (NY-NJ, p=0.17>0.05).
+- Found that data usage was the most profitable aspect of both plans (avg = $23/month)
+- Used data manipulation in order to calculate revenue.
+
+## [Project 2: EDA of Influences on Vehicle Price for Car Website](https://github.com/mnug1996/Project-2-EDA-of-Influences-on-Vehicle-Price-for-Car-Website)
+
+- Found that the most contributing factor to vehicle price was age (-0.47 correlation coefficient) showing that it had a major negative effect.
+- Visualized vehicle type counts using a bar plot to display the most commonly posted vehicle type ads (trucks, SUV, and sedans all exceeded 10k postings).
+- Utilized scatter matrix to uncover many interesting details about the data (Ex. vehicles 20 years or younger are listed for about 100 days, any older than this thay are listed for longer.)
+- Cleaned the data by fixing formatting, nan's, strange values, and removing outliers and examining the distribution of the data.
+
+## [Project 1: Data Analysis of Bank Client's Risk of Defaulting](https://github.com/mnug1996/Project-1-Data-Analysis-of-Bank-Client-s-Risk-of-Defaulting)
+
+- Created pivot tables to show the relationship between marital status and debt; customers without children were more often to be found with debt (516) compared to customers with children (412).
+- Found that lower income and property loans had the highest relation to untimely loan repayment.
+- Made categories using lemmatization to help create concise classification in order to better understand the data.
+- Preprocessed the data by handling missing values, data-type formatting, and processing duplicates.
+
+
+
 
 
